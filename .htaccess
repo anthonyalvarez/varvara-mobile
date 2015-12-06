@@ -1,0 +1,5 @@
+Redirect 301 /old-page.html http://www.varvarabrows.com/index.html
+Redirect 301 /varvarabrows_about_me.htm  http://www.varvarabrows.com/index.html
+Redirect 301 /varvarabrows_advice.htm http://www.varvarabrows.com/index.html
+Redirect 301 /varvarabrows_contact.htm http://www.varvarabrows.com/index.html
+Redirect 301 /varvarabrows_services.htm http://www.varvarabrows.com/index.html

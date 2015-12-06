@@ -1,0 +1,19 @@
+/* TEAM  */
+	Chef: Anthony E. Alvarez
+	Twitter: @anthonyealvarez
+	From: New York, NY, USA
+
+/* THANKS */
+
+	Pucho Web Solutions
+  Twitter: @PuchoWebSol
+  From: Dover, NJ, USA
+
+
+/* SITE */
+	Last update:2015/10/15
+	Language: English
+  Standards: HTML5, CSS3
+  Components: bootstrap, jQuery
+	Doctype: HTML5
+	IDE: Aptana, Atom, Notepad++, FileZilla
